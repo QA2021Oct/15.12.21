@@ -1,13 +1,11 @@
 Create new Project with this stracture:
 
-Interface - SmartDevice
-
+Interface - SmartDevice with empty body functions:
 · Boolean isWorking()
 · void turnOn()
 · void turnOff()
 
-Classes that implements SmartDevice - Computer, Smartphone, SmartWatch
- 
+Classes that implements SmartDevice - Computer, Smartphone, SmartWatch.
  
 Computer:
 ·Int - screenSize – (17-49)
