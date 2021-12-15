@@ -19,7 +19,7 @@ Smartphone:
 SmartWatch:
 ·Boolean – NFT
 
-Implement in the main class- ipone13, galaxy10, DellComputre SumsongWatch4
+Implement in the main class- ipone13, galaxy10, DellComputer, SumsongWatch4
 
 Etgar: Create also interface – GPS:
 - void getCoordinate()
