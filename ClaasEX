@@ -1,0 +1,25 @@
+Create new Project with this stracture:
+
+Interface - SmartDevice
+
+· Boolean isWorking()
+· void turnOn()
+· void turnOff()
+
+Classes that implements SmartDevice - Computer, Smartphone, SmartWatch
+ 
+ 
+Computer:
+·Int - screenSize – (17-49)
+·String - core
+
+Smartphone:
+· Int - numbersOfCameras
+
+SmartWatch:
+·Boolean – NFT
+
+Implement in the main class- ipone13, galaxy10, DellComputre SumsongWatch4
+
+Etgar: Create also interface – GPS:
+- void getCoordinate()
